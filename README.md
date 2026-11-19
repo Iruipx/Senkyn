@@ -1,15 +1,14 @@
-<div align="center">
-
 # Senkyn
 
-<img alt="Status: em preparação" src="https://img.shields.io/badge/status-em%20prepara%C3%A7%C3%A3o-0B7285?style=flat-square" />
+**Em preparação.** Este repositório ainda não possui código de implementação publicado.
 
-</div>
+Quando a primeira versão estiver disponível, este README será atualizado com:
 
-Este repositório ainda está **em preparação**. Não há código de implementação publicado até o momento.
-
-Quando a primeira versão estiver disponível, esta página será atualizada com uma visão geral do projeto, tecnologias utilizadas, instruções de instalação, execução e exemplos de uso.
+- Objetivo e funcionalidades implementadas.
+- Tecnologias utilizadas.
+- Instruções de instalação e execução.
+- Exemplo de uso e verificações disponíveis.
 
 ---
 
-<sub>Mantido por <a href="https://github.com/Iruipx">Bruno Martinelli (@Iruipx)</a>.</sub>
+Mantido por [Bruno Martinelli (@Iruipx)](https://github.com/Iruipx).
